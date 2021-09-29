@@ -46,7 +46,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Gustavo Enrique Galvão](https://img.shields.io/badge/-Ajaxx7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](gustavo-enrique-galvão-agostinho-dos-santos-79b114213)
+[![Linkedin: Gustavo Enrique Galvão](https://img.shields.io/badge/-Ajaxx7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/gustavo-enrique-galvão-agostinho-dos-santos-79b114213)](linkedin.com/in/gustavo-enrique-galvão-agostinho-dos-santos-79b114213)
 [![Gmail Badge](https://img.shields.io/badge/-gustavo.galvao.agostinho@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.galvao.agostinho@gmail.com)](mailto:gustavo.galvao.agostinho@gmail.com)
 [![GitHub Ajaxx7]( https://img.shields.io/github/followers/Ajaxx7?label=follow&style=social)](https://github.com/Ajaxx7)
 
