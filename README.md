@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **DESENVOLVIMENTO DE SISTEMAS** no <a href="https://jandira.sp.senai.br/">SENAI - JANDIRA</a>.
-- 💼 &nbsp; Trabalhando como **APRENDIZ ADMINISTRATIVO** na <a href="https://www.saint-gobain.com.br/solucoes/nossas-marcas/quartzolit">WEBER SAINT GOBAIN - QUARTZOLIT</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JAVASCRIPT**.
+- 💼 &nbsp; Trabalhando como **APRENDIZ DE INDÚSTRIA 4.0** na <a href="https://www.saint-gobain.com.br/solucoes/nossas-marcas/quartzolit">WEBER SAINT GOBAIN - QUARTZOLIT</a>
+- 🌱 &nbsp; Aprendendo mais sobre **JAVA PARA ANDROID**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
